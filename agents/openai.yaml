@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subject Recruitment Poster"
+  short_description: "Generate clear psychology study recruitment posters"
+  default_prompt: "Use $subject-recruitment-poster to ask me for the needed study details, then create a prompt-first participant recruitment poster."

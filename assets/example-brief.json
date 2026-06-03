@@ -1,0 +1,29 @@
+{
+  "title": "认知实验被试招募",
+  "hook": "探索注意力与记忆表现",
+  "study_type": "行为实验",
+  "experiment_content": [
+    "在电脑上完成注意力判断任务",
+    "完成简短记忆测验与体验问卷"
+  ],
+  "time": "2026年7月持续招募",
+  "duration": "约60分钟",
+  "compensation": "完成全程：60元被试费",
+  "bonus_or_transport": "表现奖励：0-20元，按实际规则结算",
+  "eligibility": [
+    "年龄18-30周岁",
+    "视力或矫正视力正常",
+    "无色盲或色弱",
+    "无神经或精神疾病史",
+    "未参加过本示例研究"
+  ],
+  "location": "示例大学心理学实验中心 A101 室",
+  "signup": "扫码添加主试微信，备注：认知实验+姓名",
+  "contact": "researcher_example",
+  "ethics": "示例伦理批准号：IRB-EXAMPLE-2026-001",
+  "organizer": "示例大学认知科学课题组",
+  "qr_code": "",
+  "qr_slot": "bottom-right reserved blank square",
+  "style": "data-card",
+  "generation_mode": "background-plus-overlay"
+}
